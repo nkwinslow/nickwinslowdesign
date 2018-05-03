@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="129px" height="129px" viewBox="0 0 129 129" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Photo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M19.0829359,2.83862434 L22.4404762,2.83862434 C24.5378433,2.83862434 26.2380952,4.5388763 26.2380952,6.63624339 L26.2380952,18.297619 C26.2380952,20.3949861 24.5378433,22.0952381 22.4404762,22.0952381 L4.48809524,22.0952381 C2.39072815,22.0952381 0.69047619,20.3949861 0.69047619,18.297619 L0.69047619,6.63624339 C0.69047619,4.5388763 2.39072815,2.83862434 4.48809524,2.83862434 L7.84563556,2.83862434 L9.91706413,0.69047619 L17.0115073,0.69047619 L19.0829359,2.83862434 Z M13.4642857,15.5357143 C15.3709831,15.5357143 16.9166667,13.9900307 16.9166667,12.0833333 C16.9166667,10.176636 15.3709831,8.63095238 13.4642857,8.63095238 C11.5575884,8.63095238 10.0119048,10.176636 10.0119048,12.0833333 C10.0119048,13.9900307 11.5575884,15.5357143 13.4642857,15.5357143 Z" id="path-1"></path>
+    </defs>
+    <g id="high-fidelity" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sign-Up-2" transform="translate(-125.000000, -112.000000)">
+            <g id="Group">
+                <g id="Photo" transform="translate(125.000000, 112.000000)">
+                    <circle id="Back" fill="#FFFFFF" opacity="0.300000012" cx="64.5" cy="64.5" r="64.5"></circle>
+                    <g id="Icons/Photo" transform="translate(51.000000, 41.000000)">
+                        <g id="icon" transform="translate(1.380952, 2.761905)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="photo" fill="#000000" xlink:href="#path-1"></use>
+                            <g id="Color" mask="url(#mask-2)" fill="#FFFFFF">
+                                <g transform="translate(-1.380952, -2.761905)" id="Colors/White">
+                                    <polygon points="4.56387609e-13 -6.51856227e-15 29 6.64419556e-14 29 29 4.15381162e-13 29"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                        <rect id="base" x="0" y="0" width="29" height="29"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="199px" height="15px" viewBox="0 0 199 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Details</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M10.5,0.5 C14.7075576,0.5 17.6605841,2.63886546 20.8115966,6.91659639 C21.0627985,7.25758812 21.0627987,7.74237782 20.811612,8.08338276 C17.6605943,12.3611276 14.7075576,14.5 10.5,14.5 C6.29244241,14.5 3.33941589,12.3611345 0.188403388,8.08340361 C-0.0627984821,7.74241188 -0.0627986588,7.25762218 0.188388035,6.91661724 C3.33940565,2.63887241 6.29244241,0.5 10.5,0.5 Z M10.5,11.7 C12.8237699,11.7 14.7075576,9.81959595 14.7075576,7.5 C14.7075576,5.18040405 12.8237699,3.3 10.5,3.3 C8.17623011,3.3 6.29244241,5.18040405 6.29244241,7.5 C6.29244241,9.81959595 8.17623011,11.7 10.5,11.7 Z M10.5,9.83333333 C9.20901673,9.83333333 8.16246801,8.78866442 8.16246801,7.5 C8.16246801,6.21133558 9.20901673,5.16666667 10.5,5.16666667 C11.7909833,5.16666667 12.837532,6.21133558 12.837532,7.5 C12.837532,8.78866442 11.7909833,9.83333333 10.5,9.83333333 Z" id="path-1"></path>
+        <path d="M8.49958047,15 C-8.08292841,6.08085052 3.91004695,-5.00780229 8.49958047,2.46019854 C13.0898462,-5.00780229 25.0835538,6.08085052 8.49958047,15 Z" id="path-3"></path>
+    </defs>
+    <g id="high-fidelity" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="video-page" transform="translate(-32.000000, -562.000000)">
+            <g id="Group" transform="translate(-2.000000, -4.000000)">
+                <g id="Details" transform="translate(32.000000, 563.000000)">
+                    <text id="4-587-views" font-family="Montserrat-Regular, Montserrat" font-size="12" font-weight="normal" line-spacing="20" fill="#828393">
+                        <tspan x="134" y="13">4 587 views</tspan>
+                    </text>
+                    <g id="Icons/Eye" transform="translate(103.000000, 0.000000)">
+                        <g id="icon" transform="translate(0.000000, 3.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="eye" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+                            <g id="Color" mask="url(#mask-2)" fill="#BBBCCD">
+                                <g transform="translate(0.000000, -3.000000)" id="Colors/Dark-Grey">
+                                    <polygon points="4.55935124e-13 2.00262306e-15 21 5.48361066e-14 21 21 4.26240801e-13 21"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                        <rect id="base" x="0" y="0" width="21" height="21"></rect>
+                    </g>
+                    <text id="256-likes" font-family="Montserrat-Regular, Montserrat" font-size="12" font-weight="normal" line-spacing="20" fill="#828393">
+                        <tspan x="31" y="13">256 likes</tspan>
+                    </text>
+                    <g id="Icons/Heart">
+                        <g id="icon" transform="translate(2.000000, 3.000000)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="heart" fill="#010002" fill-rule="nonzero" xlink:href="#path-3"></use>
+                            <g id="Color" mask="url(#mask-4)" fill="#BBBCCD">
+                                <g transform="translate(-2.000000, -3.000000)" id="Colors/Dark-Grey">
+                                    <polygon points="4.55935124e-13 2.00262306e-15 21 5.48361066e-14 21 21 4.26240801e-13 21"></polygon>
+                                </g>
+                            </g>
+                        </g>
+                        <rect id="base" x="0" y="0" width="21" height="21"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
